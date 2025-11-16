@@ -27,7 +27,7 @@ https://learnova-swart.vercel.app/
 - **Context API** for global state (Auth Context, App Context)
 - **useState** for dynamic UI state handling
 - **useEffect** for lifecycle logic
-- **React Router** for navigation (if used)
+- **React Router** for navigation
 
 ### 🎨 UI & Styling
 - **Tailwind CSS** for fast, modern, responsive design
