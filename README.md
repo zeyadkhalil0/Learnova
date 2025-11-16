@@ -1,12 +1,34 @@
-# React + Vite
+# Learnova Smart Engagement Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern web application for classroom engagement and attendance, built with **React.js** and responsive design.  
+This project helps educators track attendance, monitor engagement, and manage class sessions with ease.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo  
+[Visit the Live Version](https://learnova-swart.vercel.app/)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📌 Features
+
+- **Smart Attendance Tracking**: Easily record student presence with a clean interface  
+- **Engagement Analytics**: Real-time data on student participation and activity  
+- **Classroom Management**: Create, organize, and manage class sessions or groups  
+- **Responsive UI**: Works smoothly on desktop, tablet, and mobile  
+- **Scalability**: Built to support extensions like quizzes, notifications, or authentication  
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend**: React.js  
+- **Styling**: Tailwind CSS (or any CSS framework you used)  
+- **State Management**: (If you used something like Redux / Context / Zustand — mention it)  
+- **Backend / Database**: (Assume or describe: e.g. Firebase / Supabase / REST API)  
+- **Hosting / Deployment**: Vercel  
+
+---
+
+## 📁 Project Structure
+
